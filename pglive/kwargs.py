@@ -14,6 +14,7 @@ class Axis:
     TIME = "Time"
     CATEGORY = "Category"
     CATEGORIES = "Categories"
+    SHOW_ALL_CATEGORIES = "Show all categories"
     DURATION = "Duration"
     DURATION_FORMAT = "Duration_Format"
     # Duration format options
