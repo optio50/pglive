@@ -21,6 +21,7 @@ class Axis:
     DF_SHORT = "short"
     DF_LONG = "long"
 
+
 class LeadingLine:
     HORIZONTAL = "Horizontal"
     VERTICAL = "Vertical"
