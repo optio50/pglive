@@ -136,3 +136,6 @@ To make life easier, pglive includes few axis improvements:
 - You can use all `kwargs` specified in pyqtgraph
 - Use your pyqtgraph plots with `DataConnector` directly, no need to use specific `LivePlot` class 
 - **Focus on Data Handling, not Data Plotting**
+- 
+Install release 0.6.6
+pip install -e git+https://github.com/optio50/pglive.git@v0.6.6#egg=pglive
